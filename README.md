@@ -60,7 +60,7 @@ _________________
 
 ###### Licença
 
-Este projeto está sob licença [MIT](https://github.com/duduzassss/HappyWebApp/blob/main/LICENSE).
+Este projeto está sob licença [MIT](https://github.com/duduzassss/HappyWebApp/LICENSE).
 
 Feito por Eduardo Bitencourt.
 
