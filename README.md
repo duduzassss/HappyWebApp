@@ -1,16 +1,16 @@
-![Logotipo Happy](/public/images/logo.svg)
+![Logotipo Happy](/public/images/banner.png)
 
 _________________
 
-# Happy Web App
-
+#                         Happy Web App
 ## Um aplicativo web desenvolvido durante o evento NLW (Next Level Week) da > Rocketseat, na trilha Discovery.
+_________________
 
-###### Happy, um aplicativo para orfanatos. Faça uma visita e mude o dia de alguém especial!
+## Happy, um aplicativo para orfanatos. Faça uma visita e mude o dia de alguém especial!
 
 _________________
 
-###### Happy foi desenvolvido utilizando as seguintes tecnologias:
+## Happy foi desenvolvido utilizando as seguintes tecnologias:
 
 - [x] Node.js
 - [x] SQLite
@@ -20,13 +20,13 @@ _________________
 
 _________________
 
-###### Desenvolvido
+## Desenvolvido
 
 Durante a Next Level Week (NLW), evento realizado pela [Rocketset](https://rocketseat.com.br/) nos dias 12 à 18 de Outubro de 2020.
 
 _________________
 
-###### :Laptop: Executando o Happy
+## Executando o Happy
 
 ###### Pré-requisitos
 
@@ -38,14 +38,13 @@ _________________
 ###### Clonando este repositório
 
 `$ git clone https://github.com/duduzassss/HappyWebApp.git`
-_________________
 
 ``Para entrar na pasta do projeto: `$ cd HappyWebApp` ``
 _________________
 
 ###### Rodando a aplicação
 
-Dentro da pasta HappyWebApp, instale as dependências:
+Dentro da pasta `HappyWebApp`, instale as dependências:
 
 `$ npm install`
 
