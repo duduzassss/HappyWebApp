@@ -1,8 +1,10 @@
-![Logotipo Happy](/public/images/banner.png)
+<div style="text-align:center"><img src="./public/images/banner.png"/></div>
 
 _________________
 
+<div style="text-align:center">
 #                         Happy Web App
+</div>
 ## Um aplicativo web desenvolvido durante o evento NLW (Next Level Week)
 > Rocketseat, trilha Discovery.
 _________________
