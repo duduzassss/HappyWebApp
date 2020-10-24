@@ -1,8 +1,8 @@
-->![Logotipo Happy](/public/images/banner.png)<-
+![Logotipo Happy](/public/images/banner.png)
 
 _________________
 
-->#Happy Web App<-
+#                         Happy Web App
 ## Um aplicativo web desenvolvido durante o evento NLW (Next Level Week)
 > Rocketseat, trilha Discovery.
 _________________
