@@ -3,13 +3,11 @@
 _________________
 
 #                         Happy Web App
-## Um aplicativo web desenvolvido durante o evento NLW (Next Level Week) da > Rocketseat, na trilha Discovery.
+## Um aplicativo web desenvolvido durante o evento NLW (Next Level Week)
+> Rocketseat, trilha Discovery.
 _________________
-
 ## Happy, um aplicativo para orfanatos. Faça uma visita e mude o dia de alguém especial!
-
 _________________
-
 ## Happy foi desenvolvido utilizando as seguintes tecnologias:
 
 - [x] Node.js
@@ -17,7 +15,6 @@ _________________
 - [x] Express
 - [x] Handlebars
 - [x] Leaflet
-
 _________________
 
 ## Desenvolvido
